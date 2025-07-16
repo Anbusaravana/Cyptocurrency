@@ -39,7 +39,7 @@ RSI, MACD (optional)
 ⚙️ Installation
 
 1. Clone the repository:
-      git clone https://github.com/yourusername/crypto-price-prediction.git
+      git clone https://github.com/Anbusaravana
       cd crypto-price-prediction
 
 2. Install dependencies:
@@ -72,6 +72,7 @@ Accuracy of trend direction (up/down)
 Sample Plot:
 
 [Insert price prediction graph image here if applicable]
+
 🗂️ Project Structure
 
 ├── data/                 # Raw & processed data
